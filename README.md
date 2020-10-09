@@ -46,7 +46,7 @@ When on the main screen, the unit shows prompts for the two most common operatio
 * Holding the button near the tip will enter soldering temperature adjust mode (This is the same as the one in the soldering menu, just to let you edit before heating up)
 * Holding the button near the USB end will show the firmware version details
 
-Detailed operation details are over in the [Menu information.](Documentation/menu.md)
+Detailed operation details are over in the [Menu information.](Documentation/Menu.md)
 
 ## Thanks
 
